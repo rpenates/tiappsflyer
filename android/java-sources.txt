@@ -1,0 +1,7 @@
+"/Users/rpenates/Devel/Titanium/TiAppsFlyer/android/src/com/rpenates/tiappsflyer/ExampleProxy.java"
+"/Users/rpenates/Devel/Titanium/TiAppsFlyer/android/src/com/rpenates/tiappsflyer/TiAppsFlyerModule.java"
+"/Users/rpenates/Devel/Titanium/TiAppsFlyer/android/build/generated/java/com/rpenates/tiappsflyer/TiAppsFlyerBootstrap.java"
+"/Users/rpenates/Devel/Titanium/TiAppsFlyer/android/build/generated/r/android/support/v7/appcompat/R.java"
+"/Users/rpenates/Devel/Titanium/TiAppsFlyer/android/build/generated/r/android/support/v7/cardview/R.java"
+"/Users/rpenates/Devel/Titanium/TiAppsFlyer/android/build/generated/r/com/rpenates/tiappsflyer/R.java"
+"/Users/rpenates/Devel/Titanium/TiAppsFlyer/android/build/generated/r/ti/modules/titanium/ui/R.java"

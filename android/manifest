@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 3
+architectures: armeabi-v7a x86
+description: TiAppsFlyer
+author: Rafael Peñates
+license: Specify your license
+copyright: Copyright (c) 2017 by rpenates
+
+# these should not be edited
+name: TiAppsFlyer
+moduleid: com.rpenates.tiappsflyer
+guid: f71a7edb-8bda-46f9-9686-b259e283ed4b
+platform: android
+minsdk: 6.0.4.GA
