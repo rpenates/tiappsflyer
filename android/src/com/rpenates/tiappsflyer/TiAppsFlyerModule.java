@@ -53,5 +53,11 @@ public class TiAppsFlyerModule extends KrollModule
 		AppsFlyerLib.getInstance().startTracking(tiapp, appsflyerKey);
 	}
 
+	@Kroll.method
+	public void trackAppLaunch(String appsflyerKey) {
+		Log.d(LCAT, "Track app lauch with key: " + appsflyerKey.substring(0, 6) + "...");
+		AppsFlyerLib.getInstance().trackAppLaunch(tiapp, appsflyerKey);
+	}
+
 }
 
